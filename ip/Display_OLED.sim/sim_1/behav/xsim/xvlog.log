@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Desktop/ZedboardOLED/rtl/delayGen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delayGen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Desktop/ZedboardOLED/rtl/spiController.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spiController
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Desktop/ZedboardOLED/rtl/oledControler.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module oledController
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Desktop/ZedboardOLED/ip/Display_OLED.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

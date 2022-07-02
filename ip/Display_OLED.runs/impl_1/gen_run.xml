@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1655811202">
+  <File Type="ROUTE-PWR" Name="oledController_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="oledController.tcl"/>
+  <File Type="BITSTR-MMI" Name="oledController.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="oledController_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="oledController_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="oledController_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="oledController_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="oledController_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="oledController_opt.dcp"/>
+  <File Type="OPT-DRC" Name="oledController_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="oledController.hwdef"/>
+  <File Type="PWROPT-DCP" Name="oledController_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="oledController_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="oledController_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="oledController_placed.dcp"/>
+  <File Type="PLACE-IO" Name="oledController_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="oledController_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="oledController_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="oledController_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="oledController_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="oledController_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="oledController_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="oledController.bin"/>
+  <File Type="PLACE-TIMING" Name="oledController_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="oledController_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="oledController.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="oledController_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="oledController_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="oledController_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="oledController.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="oledController_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="oledController_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="oledController_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="oledController_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="oledController_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="oledController_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="oledController_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="oledController_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="oledController_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="oledController_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="oledController_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="oledController_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="oledController_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="oledController_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="oledController_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="oledController_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="oledController_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="oledController_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="oledController_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="oledController_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="oledController_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="oledController_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="oledController_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="oledController_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="oledController_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="oledController_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="oledController_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="oledController.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="oledController_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="oledController_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="oledController.nky"/>
+  <File Type="BITSTR-BMM" Name="oledController_bd.bmm"/>
+  <File Type="PDI-FILE" Name="oledController.pdi"/>
+  <File Type="RCFI_FILE" Name="oledController.rcfi"/>
+  <File Type="CFI_FILE" Name="oledController.cfi"/>
+  <File Type="RNPI_FILE" Name="oledController.rnpi"/>
+  <File Type="NPI_FILE" Name="oledController.npi"/>
+  <File Type="RBD_FILE" Name="oledController.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="oledController.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="oledController.sysdef"/>
+  <File Type="BG-BGN" Name="oledController.bgn"/>
+  <File Type="BG-DRC" Name="oledController.drc"/>
+  <File Type="RDI-RDI" Name="oledController.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../rtl/delayGen.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../rtl/spiController.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../rtl/oledControler.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="oledController"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../constraints/zedBoard_oled.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/oledController.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2021">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

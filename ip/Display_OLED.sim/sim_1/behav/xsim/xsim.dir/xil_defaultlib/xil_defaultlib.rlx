@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/User/Desktop/ZedboardOLED/ip/Display_OLED.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+C:/Users/User/Desktop/ZedboardOLED/rtl/delayGen.v,1655796117,verilog,,C:/Users/User/Desktop/ZedboardOLED/rtl/spiController.v,,delayGen,,,,,,,,
+C:/Users/User/Desktop/ZedboardOLED/rtl/oledControler.v,1655808955,verilog,,,,oledController,,,,,,,,
+C:/Users/User/Desktop/ZedboardOLED/rtl/spiController.v,1655809189,verilog,,C:/Users/User/Desktop/ZedboardOLED/rtl/oledControler.v,,spiController,,,,,,,,
